@@ -1,4 +1,4 @@
-🍎 Fruit Quality Classification using InceptionResNetV2
+# 🍎 Fruit Quality Classification using InceptionResNetV2:-
 📘 Overview
 
 This project focuses on classifying fruit quality (Good / Bad / Mixed) using a Convolutional Neural Network (CNN) based on the InceptionResNetV2 architecture.
